@@ -1,0 +1,7 @@
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.config
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.pdb
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.exe
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.pdb

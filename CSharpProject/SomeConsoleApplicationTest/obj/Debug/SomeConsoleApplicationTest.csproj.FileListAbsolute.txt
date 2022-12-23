@@ -1,0 +1,12 @@
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.dll
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.pdb
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.exe
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.pdb
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.exe.config
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csprojAssemblyReference.cache
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csproj.CopyComplete
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.dll
+C:\Users\Pris\Desktop\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.pdb
